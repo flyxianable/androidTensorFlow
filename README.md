@@ -1,2 +1,2 @@
 # androidTensorFlow
-android tensor flow demo
+android tensor flow Lite demo
